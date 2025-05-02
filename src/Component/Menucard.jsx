@@ -13,19 +13,19 @@ const Menucard = () => {
       name: 'Cappuccino',
       description: 'A classic Italian coffee drink made with equal parts espresso, steamed milk, and a thick layer of milk foam on top. It has a rich, creamy taste with a frothy texture and a slightly bitter espresso flavor.',
       price: '$4.50',
-      image: 'assets/cappuccino_cup.png',
+      image: '/assets/cappuccino_cup.png',
     },
     {
       name: 'Latte',
       description: 'A smooth, creamy coffee beverage made with espresso and steamed milk, topped with a small amount of frothy milk foam. Its mild flavor makes it a favorite for those who enjoy a less intense coffee taste.',
       price: '$4.00',
-      image: 'assets/Latte.png',
+      image: '/assets/Latte.png',
     },
     {
       name: 'Americano',
       description: 'A simple, strong coffee made by diluting espresso with hot water. This results in a coffee that is rich in flavor but less intense than straight espresso, providing a smooth and satisfying taste.',
       price: '$3.50',
-      image: 'assets/images.jpg',
+      image: '/assets/images.jpg',
     },
     {
       name: 'Mocha',
