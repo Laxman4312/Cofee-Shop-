@@ -13,7 +13,7 @@ const Menucard = () => {
       name: 'Cappuccino',
       description: 'A classic Italian coffee drink made with equal parts espresso, steamed milk, and a thick layer of milk foam on top. It has a rich, creamy taste with a frothy texture and a slightly bitter espresso flavor.',
       price: '$4.50',
-      image: '/assets/cappuccino_cup.png',
+      image: '/assets/Latte.png',
     },
     {
       name: 'Latte',
